@@ -75,7 +75,7 @@ Install the following:
 Replace `YOUR_USERNAME` with your GitHub username.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/greenmart.git
+git clone https://github.com/Cleopatra-Jaza/greenmart.git
 cd greenmart
 ```
 
